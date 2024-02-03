@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     background:white;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   background-color: white;
+   padding: 20px;
+   box-shadow:10px 10px 10px ;
+}
+ul{
+    list-style: none;
+}
+li {
+    display: inline;
+    padding: 30px;
+    margin-top: 15px;
+    color: white;
+    
+}
+li a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 10px;
+}
+li a:hover{
+    color: aquamarine;
+    
+}
+nav input{
+    border-radius: 25px;
+    width: 280px;
+    height: 40px;
+    text-align: center;
+    background-color: aqua;
+    
+}
+nav input:hover{
+    background-color: greenyellow;
+    color: white;
+}
+ .logo img{
+   width: 120px;
+   height: 45px;
+   margin-left: 25px;
+}
+button{
+    height: 35px;
+    width: 80px;
+    background-color: rgb(230, 215, 12);
+    color: white;
+    border-radius: 70px;
+}
+nav:hover{
+    
+   
+}
+.section{
+    color: black;
+    margin-right: 50px;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 55px;
+}
+.it_is_very_heard{
+   font-size: 40px;
+}
+.make_my_gf{
+    font-size: 18px;
+}
+.i_love_you{
+    font-size: 20px;
+    color: rgb(181, 119, 38);
+}
+.to_you{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.manu{
+    padding-left: 80px;
+}
+.container img{
+    width: 350px;
+    height: 80;
+    padding-left: 55px;
+}
+.monalica{
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+   margin-top: 30px;
+}
+.tumi_amr_na{
+    text-align: center;
+    color: rgb(227, 140, 26);
+    
+}
+.vula_tumar_pream_a_poracilam{
+    text-align: center;
+    font-size: 35px;
+    color: aquamarine;
+}
+.impotent{
+    padding-top: 8rem;
+    background-image: url(Travel\ Explore\ the\ World\ \(Banner\ \(Landscape\)\).png);
+    
+}
+.impotent img{
+    width: 25rem;
+    height: 20rem;
+    padding-top: 20px;
+    padding-left: 55px;
+}
+.very{
+    padding-left: 55px;
+}
+.mim{
+    width: 340px;
+    border-radius: 10px;
+    height: 100px;
+    background: rgb(181, 239, 240);
+    text-align: center;
+    box-shadow: 2px 2px 5px 5px;
+    background: url(Travel\ Explore\ the\ World\ \(Banner\ \(Landscape\)\).png);
+}
+.com{
+    width: 100%;
+    height: auto;
+    padding-left:80px;
+}
+.bar{
+    width: 200px;
+    border-radius: 20px;
+    height: 100px;
+    background: rgb(240, 225, 225);
+    text-align: center;
+   line-height: 30px;
+   
+}
+.travel img{
+    width:25rem;
+    padding-top: 10rem;
+}
+.travel{
+    display: flex;
+    padding-left: 55px;
+   background-image: url(Travel\ \(Poster\).png);
+}
+.choose_img{
+    padding-top: 10rem;
+    padding-left: 10rem;
+    font-size: 40px;
+}
+.napa{
+     font-size: 25px;
+     color: rgb(22, 13, 19);
+     padding-top: 4rem;
+     padding-left: 10rem;
+}
+.nipa_1{
+    font-size: 18px;
+    padding-left: 35px;
+    margin-top: 15px;
+    color: rgb(2, 15, 21);
+}
+.nipa_2{ 
+    margin-top: 3rem;
+}
+.mon_tumi_kar{
+    padding-left: 10rem;
+    padding-top: 3rem;
+}
+.mon_amr_na{
+    width: 50%;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.animation{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.img-3{
+    width: 10rem;
+    height: 15rem;
+    border-radius: 20px;
+}
+.img-4{
+    width: 15rem;
+    height: 20rem;
+    border-radius: 20px;
+}
+.img{
+    padding: 10px;
+    display: flexbox;
+}
+.animation-1{
+    padding-left: 55px;
+}
